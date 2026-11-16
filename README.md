@@ -21,10 +21,6 @@
 
 核心循环：**Goal → Plan → Execute → Feedback → Memory → Update**。
 
-## 版本说明
-
-当前为根据作者与 ChatGPT 历史对话整理的 **GitHub 阅读版**。第 1～3 篇为主题重建版；第 4～8 篇依据可见的已确认稿编辑整理。**尚未与 X 已发布长帖逐字比对，不宣称完全一致。**
-
 ## 版权
 
 Copyright © 2026. All rights reserved.
